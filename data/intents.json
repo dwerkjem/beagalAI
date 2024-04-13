@@ -1,0 +1,12 @@
+{
+    "intents": [
+        {
+            "tag" : "greeting",
+            "patterns" : ["Hi", "Hello", "Hey", "Howdy", "Hola", "What's up", "Good morning", "Good afternoon", "Good evening"],
+            "responses" : ["Hello!", "Hi!", "Hey!", "Howdy!", "What's up!", "Good morning!", "Good afternoon!", "Good evening!"]
+        },
+        {
+            
+        }
+    ]
+}
